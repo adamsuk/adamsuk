@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my space. My name is Scott and I'm a DevOps/SRE/Cloud Engineer/Python Developer with 5 years of professional experience.
+This is my space. My name is Scott and I'm a DevOps/SRE/Cloud Engineer and Python Developer with 5 years of professional experience.
 
 #### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk)
