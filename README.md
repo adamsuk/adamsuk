@@ -2,7 +2,9 @@
 This is my space. My name is Scott and I'm a DevOps/SRE/Cloud Engineer/Python Developer with 5 years of professional experience.
 
 #### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/​?username=adamsuk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### How to reach me?
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-adams-a3b070192)
