@@ -33,13 +33,18 @@ Some interesting projects I've been working:
 -->
 
 #### Tech Stack
+
 ##### Languages:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+
 ##### Deployment Tools:
 <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/helm%20-%2314354C.svg?&style=for-the-badge&logo=helm&logoColor=white"/>
+
 ##### Infrastructure as Code:
 <img src="https://img.shields.io/badge/terraform%20-%2314354C.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+
 ##### CI/CD:
 <img src="https://img.shields.io/badge/circleci%20-%2314354C.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/gitlab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+
 ##### Cloud Providers:
 <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
