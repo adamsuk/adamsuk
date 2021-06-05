@@ -2,7 +2,7 @@
 This is my space. My name is Scott and I'm a DevOps/SRE Engineer and Software Developer. I'm currently enjoying life as a Platform Engineer at [Koodoo](https://koodoo.io/).
 
 - 🔭 I’m currently working on [picoGames](https://github.com/adamsuk/picoGames).
-- 🌱 I’m currently learning all things JavaScrip... Express, Next.js, Ramda, React, jQuery 😊
+- 🌱 I’m currently learning all things JavaScript ... Express, Next.js, Ramda, React, jQuery 😊
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
 You can find my professional GitHub profile [here](https://github.com/sra405).
