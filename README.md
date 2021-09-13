@@ -8,7 +8,7 @@ This is my space. My name is Scott and I'm a Software Developer and DevOps/SRE E
 You can find my professional GitHub profile [here](https://github.com/sra405).
 
 #### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&count_private=true&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&show_icons=true&include_all_commits=true&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsuk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
