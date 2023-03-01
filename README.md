@@ -1,11 +1,12 @@
 # Hi, I'm Scott 👋
-This is my space. My name is Scott and I'm a Software Developer and DevOps/SRE Engineer. I'm currently enjoying life as a Senior Software Engineer at the [Raspberry Pi Foundation](https://www.raspberrypi.org/).
+This is my space. My name is Scott and I'm a Software Developer and DevOps/SRE Engineer. I'm currently enjoying life as a Software Engineering Manager at the [Raspberry Pi Foundation](https://www.raspberrypi.org/).
 
+- 💪 redeploying my [personal site](https://sradams.co.uk) to CloudFlare pages! Previously on Vercel (well maintained for Next.js) but loved the CloudFlare offering so ported it over. As part of this I reverted some SSR props from my CMS to reduce the build size and hopefully remove some caching issues 🤞
 - 🔭 I’ve recently been putting my skills to practice with a v2 of my [frontend using Next.js](https://github.com/adamsuk/sradams-co-uk-content), built a service for my podcasts using [Express](https://github.com/adamsuk/podcast-express-api) and pulling together some [boilerplate Flask](https://github.com/adamsuk/flask-boilerplate) for use in STEM.
-- 🌱 I’m currently learning Ruby on Rails! As well as maintaining some of my newly found love for GraphQL 😍 ... if I get adventurous I might merge the two!
+- 🌱 I’m currently exploring Rails 7 + React & esbuild (removing the need for webpack!!). As well as keeping up some of my GraphQL skills 😍 ... if I get adventurous I might merge the two!
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
-You can find my professional GitHub profile [here](https://github.com/sra405), not much to see except some awesome stats 💪
+You can find my professional GitHub profile [here](https://sradams.co.uk/?githubProfile=sra405), not much to see except some awesome stats 💪
 
 ### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&show_icons=true&include_all_commits=true&hide_rank=true)
