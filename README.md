@@ -6,7 +6,7 @@ This is my space. My name is Scott and I'm a Software Developer and DevOps/SRE E
 - 🌱 I’m currently exploring Rails 7 + React & esbuild (removing the need for webpack!!). As well as keeping up some of my GraphQL skills 😍 ... if I get adventurous I might merge the two!
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
-You can find my professional GitHub profile [here](https://sradams.co.uk/?githubProfile=sra405), not much to see except some awesome stats 💪
+You can find my professional GitHub profile [here](https://github.com/sra405), not much to see except some awesome stats 💪
 
 ### Repository stats
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&show_icons=true&include_all_commits=true&hide_rank=true)
