@@ -1,9 +1,8 @@
 # Hi, I'm Scott 👋
-This is my space. My name is Scott and I'm a Software Developer and DevOps/SRE Engineer. I'm currently enjoying life as a Software Engineering Manager at the [Raspberry Pi Foundation](https://www.raspberrypi.org/).
+This is my space. My name is Scott and I'm a Software Developer, DevOps/SRE Engineer and occasional Engineering Manager. I'm currently enjoying life as a Senior Software Engineer at the [Neural Foundry](https://www.neuralfoundry.co.uk/).
 
-- 💪 redeploying my [personal site](https://sradams.co.uk) to CloudFlare pages! Previously on Vercel (well maintained for Next.js) but loved the CloudFlare offering so ported it over. As part of this I reverted some SSR props from my CMS to reduce the build size and hopefully remove some caching issues 🤞
-- 🔭 I’ve recently been putting my skills to practice with a v2 of my [frontend using Next.js](https://github.com/adamsuk/sradams-co-uk-content), built a service for my podcasts using [Express](https://github.com/adamsuk/podcast-express-api) and pulling together some [boilerplate Flask](https://github.com/adamsuk/flask-boilerplate) for use in STEM.
-- 🌱 I’m currently exploring Rails 7 + React & esbuild (removing the need for webpack!!). As well as keeping up some of my GraphQL skills 😍 ... if I get adventurous I might merge the two!
+- 💪 looking into migrating some old Gitpod spaces into Codespaces using Dev containers
+- 🌱 I’ve recently been exploring TypeScript, NestJS and ROS. All very fimilar with my prior experience in JS, Express and Python but there's still gotchas. I'm sure some cool personal projects will come out of these sooner rather than later.
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
 You can find my professional GitHub profile [here](https://github.com/sra405), not much to see except some awesome stats 💪
