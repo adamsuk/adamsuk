@@ -1,24 +1,16 @@
 # Hi, I'm Scott 👋
 This is my space. My name is Scott and I'm a Software Developer, DevOps/SRE Engineer and occasional Engineering Manager. I'm currently enjoying life as a Senior Software Engineer at the [Neural Foundry](https://www.neuralfoundry.co.uk/).
 
-- 💪 looking into migrating some old Gitpod spaces into Codespaces using Dev containers
+- 💪 looking into migrating some old Gitpod spaces into Codespaces using Dev containers for interview code challenges with zero setup
 - 🌱 I’ve recently been exploring TypeScript, NestJS and ROS. All very fimilar with my prior experience in JS, Express and Python but there's still gotchas. I'm sure some cool personal projects will come out of these sooner rather than later.
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
-You can find my professional GitHub profile [here](https://github.com/sra405), not much to see except some awesome stats 💪
-
-### Repository stats
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamsuk&show_icons=true&include_all_commits=true&hide_rank=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsuk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### How to reach me?
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-adams-a3b070192)
-[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](http://www.sradams.co.uk)
+You can find my professional GitHub profile [here](https://github.com/sra405), not much too much public to see there though 😉
 
 ### Tech Stack
 
 ![Javascript](https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform%20-%2314354C.svg?&style=for-the-badge&logo=terraform&logoColor=white)
@@ -39,9 +31,13 @@ You can find my professional GitHub profile [here](https://github.com/sra405), n
 ### Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## How to reach me?
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-adams-a3b070192)
+[![Website](https://img.shields.io/badge/-WEBSITE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](http://www.sradams.co.uk)
