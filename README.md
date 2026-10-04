@@ -1,11 +1,11 @@
 # Hi, I'm Scott 👋
 This is my space. My name is Scott and I'm a Software Developer, DevOps/SRE Engineer and occasional Engineering Manager. I'm currently enjoying life as a Senior Software Engineer at the [Neural Foundry](https://www.neuralfoundry.co.uk/).
 
-- 💪 looking into migrating some old Gitpod spaces into Codespaces using Dev containers for interview code challenges with zero setup
-- 🌱 I’ve recently been exploring TypeScript, NestJS and ROS. All very fimilar with my prior experience in JS, Express and Python but there's still gotchas. I'm sure some cool personal projects will come out of these sooner rather than later.
+- 💪 building [TouchlineHQ](https://touchlinehq.co.uk), websites and club tools for grassroots football
+- 🌱 I’ve recently been exploring TypeScript, NestJS and ROS. All very familiar with my prior experience in JS, Express and Python but there's still gotchas. I'm sure some cool personal projects will come out of these sooner rather than later.
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
-You can find my professional GitHub profile [here](https://github.com/sra405), not much too much public to see there though 😉
+You can find my professional GitHub profile [here](https://github.com/sra405), not too much public to see there though 😉
 
 ### Tech Stack
 
