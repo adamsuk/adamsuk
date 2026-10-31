@@ -6,8 +6,8 @@ body:
     id: target
     attributes:
       label: Target repository
-      description: The one repository this change lands in. Replace owner/repo and leave a single line.
-      value: |
+      description: The one repository this change lands in. Enter it in the format shown on a single line.
+      placeholder: |
         Target repo: owner/repo
     validations:
       required: true
