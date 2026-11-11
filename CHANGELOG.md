@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- `.github/workflows/size-label.yml` calls gh-factory's reusable size-label workflow, so pull requests get a `size/*` label (adamsuk/software-factory#342).
 - `.github/factory.yml` lists `changelog / changelog` in `required_checks`, matching the check the `factory-main` ruleset now requires (adamsuk/software-factory#116, #323).
 
 ### Added
