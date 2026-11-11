@@ -1,0 +1,8 @@
+# adamsuk's gh-factory overrides (see adamsuk/gh-factory README, "Per-repo overrides").
+#
+# The factory-main ruleset requires this check (adamsuk/software-factory#116). It is
+# listed here so `gh factory plan` matches the live ruleset and `gh factory apply`
+# does not remove the rule (adamsuk/software-factory#323). The name is the context a
+# green pull request reports.
+required_checks:
+  - changelog / changelog
