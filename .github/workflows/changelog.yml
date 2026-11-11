@@ -13,4 +13,4 @@ permissions:
 
 jobs:
   changelog:
-    uses: adamsuk/gh-factory/.github/workflows/changelog.yml@283fa179145dab3b40dbb4b2100fcb50910d7eb1 # main
+    uses: adamsuk/gh-factory/.github/workflows/changelog.yml@45fa31482f0b2243bbb083156b4c8589c3679fe3 # main
