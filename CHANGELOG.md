@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- README refreshed with recent projects: TouchlineHQ, the software factory, Cloudflare Workers and viva; added Cloudflare and Bash badges.
+
 ## 2026-11-11 (merge queue ready)
 
 ### Changed
