@@ -1,8 +1,9 @@
 # Hi, I'm Scott 👋
 This is my space. My name is Scott and I'm a Software Developer, DevOps/SRE Engineer and occasional Engineering Manager. I'm currently enjoying life as a Senior Software Engineer at the [Neural Foundry](https://www.neuralfoundry.co.uk/).
 
-- 💪 building [TouchlineHQ](https://touchlinehq.co.uk), websites and club tools for grassroots football
-- 🌱 I’ve recently been exploring TypeScript, NestJS and ROS. All very familiar with my prior experience in JS, Express and Python but there's still gotchas. I'm sure some cool personal projects will come out of these sooner rather than later.
+- 💪 building [TouchlineHQ](https://touchlinehq.co.uk), white-labelled [club websites](https://github.com/touchlineHQ/clubsPlatform), FullTime fixture and result feeds, and a training-drill board for grassroots football
+- 🏭 building a [software factory](https://github.com/adamsuk/software-factory), automated stations from intake to build, test, review and merge with a human approval gate. [gh-factory](https://github.com/adamsuk/gh-factory) rolls the same baseline out to every repo.
+- 🌱 I've recently been exploring Cloudflare Workers (the blog and activity feed behind my website) and, with [viva](https://github.com/adamsuk/viva), the risk of engineers deskilling as AI agents write more of the code, or ending up supervising agents they're not equipped to judge.
 - 👯 I’m looking to collaborate on anything and everything 🤷
 
 You can find my professional GitHub profile [here](https://github.com/sra405), not too much public to see there though 😉
@@ -13,9 +14,11 @@ You can find my professional GitHub profile [here](https://github.com/sra405), n
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform%20-%2314354C.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci%20-%2314354C.svg?&style=for-the-badge&logo=circleci&logoColor=white)
